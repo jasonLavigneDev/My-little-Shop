@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/My-little-Shop/static/css/main.d6160367.chunk.css",
+    "main.js": "/My-little-Shop/static/js/main.e5771a17.chunk.js",
+    "main.js.map": "/My-little-Shop/static/js/main.e5771a17.chunk.js.map",
+    "runtime-main.js": "/My-little-Shop/static/js/runtime-main.bcf3842d.js",
+    "runtime-main.js.map": "/My-little-Shop/static/js/runtime-main.bcf3842d.js.map",
+    "static/js/2.8dc35b40.chunk.js": "/My-little-Shop/static/js/2.8dc35b40.chunk.js",
+    "static/js/2.8dc35b40.chunk.js.map": "/My-little-Shop/static/js/2.8dc35b40.chunk.js.map",
+    "index.html": "/My-little-Shop/index.html",
+    "static/css/main.d6160367.chunk.css.map": "/My-little-Shop/static/css/main.d6160367.chunk.css.map",
+    "static/js/2.8dc35b40.chunk.js.LICENSE.txt": "/My-little-Shop/static/js/2.8dc35b40.chunk.js.LICENSE.txt",
+    "static/media/heart.c31d61db.svg": "/My-little-Shop/static/media/heart.c31d61db.svg",
+    "static/media/shopimg.2c7ddfae.jpg": "/My-little-Shop/static/media/shopimg.2c7ddfae.jpg",
+    "static/media/shopping-cart.25d65fd4.svg": "/My-little-Shop/static/media/shopping-cart.25d65fd4.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bcf3842d.js",
+    "static/js/2.8dc35b40.chunk.js",
+    "static/css/main.d6160367.chunk.css",
+    "static/js/main.e5771a17.chunk.js"
+  ]
+}
