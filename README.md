@@ -6,5 +6,4 @@
 - React Router Dom ( Router, useParams )
 - React Redux
 - Components ( Navbar, Card, Notification )
-- Features ( Asssociate data to Chart )
 - Data ( Fake data into a JSON file )
